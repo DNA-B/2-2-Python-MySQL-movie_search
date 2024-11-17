@@ -8,7 +8,7 @@ import time
 con = pymysql.connect(host='localhost',
                       user='your username',
                       password='your password',
-                      db='your DB name',
+                      db='yout DB name',
                       charset='utf8')
 
 print("connect successful!!")
