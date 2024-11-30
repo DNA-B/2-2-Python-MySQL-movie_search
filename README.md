@@ -106,4 +106,4 @@
       <img src="https://github.com/user-attachments/assets/e3d55ad3-2c59-44b9-89cb-1a422c6b2bd6"><br>
 </div>
 <br><br><br><br><hr>
-*2022. 11 ~ 2022. 12*
+<b>2022. 11 ~ 2022. 12</b>
